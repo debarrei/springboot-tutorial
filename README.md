@@ -1,6 +1,6 @@
-# CodeQuest
+# Springboot Tutorial
 
-Parte backend del aplicativo CodeQuest
+Parte backend del aplicativo springboot tutorial
 
 ## Instalación
 
